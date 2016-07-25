@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/duckpuppy/ididthis.png?label=ready&title=Ready)](https://waffle.io/duckpuppy/ididthis)
 [![Gem Version](https://badge.fury.io/rb/ididthis.svg)] [rubygems] 
 [![Build Status](https://travis-ci.org/duckpuppy/ididthis.svg)] [travis]
 [![Dependency Status](https://gemnasium.com/duckpuppy/ididthis.svg)] [gemnasium]
